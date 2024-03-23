@@ -10,13 +10,12 @@ def get_response():
         print(body)
     return get_body
 
-dog_facts = get_response()
-dog_facts()
-dog_facts()
-dog_facts()
-dog_facts()
-dog_facts()
-
+request = get_response()
+request()
+request()
+request()
+request()
+request()
 
 
 def call_lim(func):
