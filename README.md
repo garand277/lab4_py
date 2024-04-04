@@ -9,11 +9,7 @@
 
 # Скриншоты результатов
 
-![](https://i.imgur.com/WrUB1J6.png)
-
 ![](https://i.imgur.com/C9Ce7sb.png)
-
-![](https://i.imgur.com/iLk89ED.png)
 
 ![](https://i.imgur.com/HTpvnsi.png)
 
